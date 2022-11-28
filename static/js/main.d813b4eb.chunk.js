@@ -1,0 +1,2 @@
+(this["webpackJsonpcdp-richmond"]=this["webpackJsonpcdp-richmond"]||[]).push([[0],{206:function(e,i){},91:function(e,i,n){"use strict";n.r(i);n(0);var o=n(26),c=n.n(o),t=n(66),r=(n(220),n(58));c.a.render(Object(r.jsx)("div",{children:Object(r.jsx)(t.AppConfigProvider,{appConfig:{firebaseConfig:{options:{projectId:"cdp-richmond-a3d06941"},settings:{}},municipality:{name:"Richmond",timeZone:"America/New_York",footerLinksSections:[]}},children:Object(r.jsx)(t.App,{})})}),document.getElementById("root"))}},[[91,1,2]]]);
+//# sourceMappingURL=main.d813b4eb.chunk.js.map
