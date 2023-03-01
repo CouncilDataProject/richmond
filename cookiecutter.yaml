@@ -5,7 +5,7 @@ default_context:
     municipality_slug: "richmond"
     python_municipality_slug: "richmond"
     infrastructure_slug: "cdp-richmond-a3d06941"
-    maintainer_or_org_full_name: "evamaxfield"
+    maintainer_or_org_full_name: "Council Data Project Contributors"
     hosting_github_username_or_org: "CouncilDataProject"
     hosting_github_repo_name: "richmond"
     hosting_github_url: "https://github.com/CouncilDataProject/richmond"
@@ -13,3 +13,5 @@ default_context:
     firestore_region: "us-central"
     event_gather_timedelta_lookback_days: 8
     event_gather_cron: "2 23 * * *"
+    enable_clipping: "true"
+    speech_to_text_model_version: "large"
